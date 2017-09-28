@@ -368,8 +368,7 @@
     "fs": false,
     "glob": false,
     "path": false,
-    "supports-color": false,
-    "buffer": "buffer"
+    "supports-color": false
   },
   "homepage": "https://mochajs.org",
   "logo": "https://cldup.com/S9uQ-cOLYz.svg"
